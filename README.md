@@ -19,4 +19,4 @@ Second setup Prisma locally.<br>
 
 The Client instructions are at https://github.com/Mccaryr/nooro-client<br>
 
-Next run 'npm start' and your API should be live!
+Next run 'npm start' and your API should be live at http://localhost:3001!
